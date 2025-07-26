@@ -1,0 +1,23 @@
+#titulo{
+    color: red;
+    font-size: 64px;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 5px 5px 10px red;
+
+}
+
+#paragrafo{
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+   
+    font-style: italic;
+    line-height: 40px;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    text-align: justify; 
+    text-transform:capitalize;
+    text-decoration: underline;
+    
+}

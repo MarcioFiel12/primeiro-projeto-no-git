@@ -1,0 +1,17 @@
+.vo{
+
+}
+
+.pai{
+    width: 50vw;
+    height: 50 vh;
+    background: blue;
+
+}
+
+.filho{
+width: 50%;
+height: 50%;
+background: red;
+
+}
